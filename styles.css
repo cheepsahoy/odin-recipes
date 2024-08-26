@@ -1,0 +1,15 @@
+.title {
+    font-size: 120px;
+    color: blueviolet;
+}
+
+.recipe {
+    font-size: medium;
+    color: green;
+}
+
+.authornote {
+    font-style: italic;
+    font-size: small;
+    color: beige;
+}
